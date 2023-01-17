@@ -1,4 +1,7 @@
-## Robotika UNNES
-
-<p> Tempat pemalas menaruh dokumen seputar robotika di UNNES </p>
-<p> Mungkin hanya kelas robotics dan KRAI karena yang buat repositi ini dari cabang itu </p>
+<h1>Materi Software Robotika</h1>
+<h3>Materi robotics school</h3>
+<ol>
+    <li><a href = > Materi pertama </a></li>
+    <li><a href = > Materi kedua </a></li>
+    <li><a href = > Materi ketiga </a></li>
+</ol>
